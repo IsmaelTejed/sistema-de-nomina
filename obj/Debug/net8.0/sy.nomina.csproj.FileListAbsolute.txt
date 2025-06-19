@@ -1,0 +1,14 @@
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\bin\Debug\net8.0\sy.nomina.exe
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\bin\Debug\net8.0\sy.nomina.deps.json
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\bin\Debug\net8.0\sy.nomina.runtimeconfig.json
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\bin\Debug\net8.0\sy.nomina.dll
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\bin\Debug\net8.0\sy.nomina.pdb
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.AssemblyInfo.cs
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.dll
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\refint\sy.nomina.dll
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.pdb
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\sy.nomina.genruntimeconfig.cache
+C:\Users\ferna\source\repos\sy.nomina\sy.nomina\obj\Debug\net8.0\ref\sy.nomina.dll
